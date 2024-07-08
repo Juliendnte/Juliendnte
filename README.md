@@ -42,8 +42,8 @@ Currently, I am a student at YNOV Aix campus, where I have been studying for a y
 
 Here are some of the projects I've been working on:
 
-- [Project 1](https://github.com/Juliendnte/forum) - An online forum where users can post and comment on topics.
-- [Project 2](https://github.com/Juliendnte/Boutique-JS) - A simple Watches E-commerce website built with JavaScript.
+- [Forum](https://github.com/Juliendnte/forum) - An online forum where users can post and comment on topics.
+- [Boutique-Js](https://github.com/Juliendnte/Boutique-JS) - A simple Watches E-commerce website built with JavaScript.
 
 ## 📈 GitHub Stats
 
