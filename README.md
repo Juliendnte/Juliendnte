@@ -1,5 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Juliendnte&label=Profile%20views&color=60d697&style=flat" alt="Juliendnte" /> </p>
 
+## 🏆 GitHub Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Juliendnte&theme=dark" alt="GitHub Trophies" />
+</p>
+
 ## Hi there, I'm Julien DANTE 👋
 
 Welcome to my GitHub profile! I am a passionate technology enthusiast who started coding in 2022 during my high school years, where I mainly focused on Python, SQL, HTML, and CSS.
@@ -35,8 +41,8 @@ Currently, I am a student at YNOV Aix campus, where I have been studying for a y
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="30" height="30"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a>
 </p>
-
 
 ## 🌟 Projects
 
@@ -48,14 +54,11 @@ Here are some of the projects I've been working on:
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juliendnte&show_icons=true&count_private=true&theme=gruvbox" alt="Juliendnte's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juliendnte&theme=dark" alt="Juliendnte's GitHub Streak" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliendnte&layout=compact&count_private=true&theme=gruvbox" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Juliendnte&show_icons=true&count_private=true&theme=dark" alt="Juliendnte's GitHub Stats" />
 </p>
-
-## 🏆 GitHub Trophies
-
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Juliendnte&theme=gruvbox" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliendnte&layout=compact&count_private=true&theme=dark" alt="Top Languages" />
 </p>
