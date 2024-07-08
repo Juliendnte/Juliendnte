@@ -1,8 +1,8 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Juliendnte&label=Profile%20views&color=60d697&style=flat" alt="Juliendnte" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=Juliendnte&label=Profile%20views&color=60d697&style=flat" alt="Juliendnte" /> </p>
 
 ## 🏆 GitHub Trophies
 
-<p align="left">
+<p>
   <img src="https://github-profile-trophy.vercel.app/?username=Juliendnte&theme=dark" alt="GitHub Trophies" />
 </p>
 
@@ -22,14 +22,14 @@ Currently, I am a student at YNOV Aix campus, where I have been studying for a y
 
 ## 🔗 Links
 
-<p align="left">
+<p>
   <a target="_blank" href="https://www.linkedin.com/in/julien-dante-783537260/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/my_portfolio-CB4827?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 💻 Languages and Tools
 
-<p align="left">
+<p>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> 
@@ -53,12 +53,19 @@ Here are some of the projects I've been working on:
 
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juliendnte&theme=dark" alt="Juliendnte's GitHub Streak" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juliendnte&show_icons=true&count_private=true&theme=dark" alt="Juliendnte's GitHub Stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliendnte&layout=compact&count_private=true&theme=dark" alt="Top Languages" />
-</p>
+<table>
+  <tr>
+    <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliendnte&layout=compact&count_private=true&theme=dark" alt="Top Languages" />    
+    </td>
+    <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Juliendnte&show_icons=true&count_private=true&theme=dark" alt="Juliendnte's GitHub Stats" />    
+    </td>
+
+  </tr>
+  <tr>
+    <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juliendnte&theme=dark" alt="Juliendnte's GitHub Streak" />    
+    </td>
+ </tr>
+</table>
