@@ -17,7 +17,7 @@ Currently, I am a student at YNOV Aix campus, where I have been studying for a y
 ## 🔗 Links
 
 <p align="left">
-  <a target="_blank" href="https://www.linkedin.com/in/your-linkedin-profile/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://www.linkedin.com/in/julien-dante-783537260/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/my_portfolio-CB4827?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
