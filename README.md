@@ -8,9 +8,9 @@
 
 ## Hi there, I'm Julien DANTE 👋
 
-Welcome to my GitHub profile! I am a passionate technology enthusiast who started coding in 2022 during my high school years, where I mainly focused on Python, SQL, HTML, and CSS.
+**Welcome to my GitHub profile!** I am a passionate technology enthusiast who started coding in 2022 during my high school years, where I mainly focused on Python, SQL, HTML, and CSS.
 
-Currently, I am a student at YNOV Aix campus, where I have been studying for a year. During this time, I have learned a lot and developed a strong passion for software development and AI, with a particular interest in backend development and pure programming.
+Currently, I am a student at YNOV Aix campus, where I have been studying for <!--years_since-->{years_since}<!--years_since--> year. During this time, I have learned a lot and developed a strong passion for software development and AI, with a particular interest in backend development and pure programming.
 
 ## 🚀 About Me
 
