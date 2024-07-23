@@ -10,7 +10,7 @@
 
 **Welcome to my GitHub profile!** I am a passionate technology enthusiast who started coding in 2022 during my high school years, where I mainly focused on Python, SQL, HTML, and CSS.
 
-Currently, I am a student at YNOV Aix campus, where I have been studying for <!--years_since-->1<!--years_since--> year. During this time, I have learned a lot and developed a strong passion for software development and AI, with a particular interest in backend development and pure programming.
+Currently, I am a student at YNOV Aix campus, where I have been studying for <!--years_since-->1<!--years_since--> year. During this time, I have learned a lot and developed a strong passion for development and AI, with a particular interest in backend development and general programming.
 
 ## 🚀 About Me
 
