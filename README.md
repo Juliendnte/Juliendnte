@@ -15,7 +15,7 @@ Currently, I am a student at YNOV Aix campus, where I have been studying for <!-
 ## 🚀 About Me
 
 - 🌍 I'm based in Aix-en-Provence, France.
-- 🎓 I'm a first-year student at YNOV Aix campus.
+- 🎓 I'm a second-year student at YNOV Aix campus.
 - 🌱 I'm currently learning more about full-stack development.
 - 💬 Ask me about technology, programming, and web development.
 - 📫 How to reach me: [Email](mailto:julien.dante@ynov.com)
@@ -24,7 +24,7 @@ Currently, I am a student at YNOV Aix campus, where I have been studying for <!-
 
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/julien-dante-783537260/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/my_portfolio-CB4827?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://juliendnte.github.io/Portfolio/"><img src="https://img.shields.io/badge/my_portfolio-CB4827?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 💻 Languages and Tools
