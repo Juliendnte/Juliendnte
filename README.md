@@ -10,7 +10,7 @@
 
 **Welcome to my GitHub profile!** I am a passionate technology enthusiast who started coding in 2022 during my high school years, where I mainly focused on Python, SQL, HTML, and CSS.
 
-Currently, I am a student at YNOV Aix campus, where I have been studying for <!--years_since-->1<!--years_since--> year. During this time, I have learned a lot and developed a strong passion for development and AI, with a particular interest in backend development and general programming.
+Currently, I am a student at YNOV Aix campus, where I have been studying for <!--years_since-->1<!--years_since--> year. During this time, I have learned a lot and developed a strong passion for development and AI, with a particular interest in backend development and  data manipulation.
 
 ## 🚀 About Me
 
@@ -42,6 +42,11 @@ Currently, I am a student at YNOV Aix campus, where I have been studying for <!-
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="30" height="30"/> </a>
+  <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="30" height="30"/> </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> </a>
 </p>
 
 ## 🌟 Projects
@@ -50,6 +55,7 @@ Here are some of the projects I've been working on:
 
 - [Forum](https://github.com/Juliendnte/forum) - An online forum where users can post and comment on topics.
 - [Boutique-Js](https://github.com/Juliendnte/Boutique-JS) - A simple Watches E-commerce website built with JavaScript.
+- [Projet-Blue](https://projet-blue-2048.kantin-fagniart.fr/) - 2048 with some bonus mode
 
 ## 📈 GitHub Stats
 
@@ -61,11 +67,10 @@ Here are some of the projects I've been working on:
     <td>
         <img src="https://github-readme-stats.vercel.app/api?username=Juliendnte&show_icons=true&count_private=true&theme=dark" alt="Juliendnte's GitHub Stats" />    
     </td>
-
   </tr>
   <tr>
     <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juliendnte&theme=dark" alt="Juliendnte's GitHub Streak" />    
     </td>
- </tr>
+  </tr>
 </table>
