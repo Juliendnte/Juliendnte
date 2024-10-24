@@ -10,14 +10,14 @@
 
 **Welcome to my GitHub profile!** I am a passionate technology enthusiast who started coding in 2022 during my high school years, where I mainly focused on Python, SQL, HTML, and CSS.
 
-Currently, I am a student at YNOV Aix campus, where I have been studying for <!--years_since-->1<!--years_since--> year. During this time, I have learned a lot and developed a strong passion for development and AI, with a particular interest in backend development and  data manipulation.
+Currently, I am a student at YNOV Aix campus, where I have been studying for <!--years_since-->1<!--years_since--> year. During this time, I have learned a lot and developed a strong passion for development and AI, with a particular interest in backend development and data manipulation.
 
 ## 🚀 About Me
 
 - 🌍 I'm based in Aix-en-Provence, France.
 - 🎓 I'm a second-year student at YNOV Aix campus.
-- 🌱 I'm currently learning more about full-stack development.
-- 💬 Ask me about technology, programming, and web development.
+- 🌱 I'm currently learning more about machine learning.
+- 💬 Ask me about programming, and back development.
 - 📫 How to reach me: [Email](mailto:julien.dante@ynov.com)
 
 ## 🔗 Links
@@ -47,6 +47,7 @@ Currently, I am a student at YNOV Aix campus, where I have been studying for <!-
   <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="30" height="30"/> </a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30"/></a>
 </p>
 
 ## 🌟 Projects
