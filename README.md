@@ -3,7 +3,7 @@
 ## 🏆 GitHub Trophies
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=Juliendnte&theme=dark" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Juliendnte&theme=dark&rank=-?" alt="GitHub Trophies" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=435&lines=Hey+I'm+Julien+Welcome+to+my+Profile)](https://git.io/typing-svg)
@@ -12,7 +12,7 @@ Passionate Backend Developer !
 
 Currently, I am a student at YNOV Aix campus, where I have been studying for <!--years_since-->1<!--years_since--> year. During this time, I have learned a lot and developed a strong passion for development and AI, with a particular interest in backend development and data manipulation.
 
-## <picture><img src = "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width = 40px></picture> About Me
+## <picture><img src = "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width = 35px></picture> About Me
 - 🌍 I'm based in Aix-en-Provence, France.
 - 🎓 I'm a second-year student at YNOV Aix campus.
 - 🌱 I'm currently learning more about machine learning.
@@ -20,7 +20,7 @@ Currently, I am a student at YNOV Aix campus, where I have been studying for <!-
 - 📫 How to reach me: [Email](mailto:julien.dante@ynov.com)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">  Languages and Tools
+## <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="35">  Languages and Tools
 
 <p>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="python" width="40" height="36"/></a>
@@ -114,18 +114,12 @@ Here are some of the projects I've been working on:
 
 ## 📈 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliendnte&layout=compact&count_private=true&theme=dark" alt="Top Languages" />    
-    </td>
-    <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Juliendnte&show_icons=true&count_private=true&theme=dark" alt="Juliendnte's GitHub Stats" />    
-    </td>
-  </tr>
-  <tr>
-    <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juliendnte&theme=dark" alt="Juliendnte's GitHub Streak" />    
-    </td>
-  </tr>
-</table>
+<p align="center">
+   <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliendnte&layout=compact&count_private=true&theme=dark" alt="Top Languages" />  
+   <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Juliendnte&show_icons=true&count_private=true&theme=dark" alt="Juliendnte's GitHub Stats" />    
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juliendnte&theme=dark" alt="Juliendnte's GitHub Streak" style="display: block; margin: 0 auto;" />      
+</p>
+
+  
