@@ -10,10 +10,16 @@ if months < 0:
     years -= 1
     months += 12
 
-if months == 0:
+decimal_months = round((months / 12) * 10)
+
+if decimal_months == 10:
+    years += 1
+    decimal_months = 0
+
+if decimal_months == 0:
     years_text = f"{years}"
 else:
-    years_text = f"{years}.{months}"
+    years_text = f"{years}.{decimal_months}"
 
 try:
     with open("README.md", "r", encoding="utf-8") as file:
