@@ -10,7 +10,7 @@
 
 Passionate Backend Developer!
 
-Currently, I am a student at YNOV Aix campus, where I have been studying for <!--years_since-->1.8<!--years_since--> year. During this time, I have learned a lot and developed a strong passion for development and AI, with a particular interest in backend development and data manipulation.
+Currently, I am a student at YNOV Aix campus, where I have been studying for <!--years_since-->1.7<!--years_since--> year. During this time, I have learned a lot and developed a strong passion for development and AI, with a particular interest in backend development and data manipulation.
 
 ## <picture><img src = "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width = 35 px></picture> About Me
 - 🌍 I'm based in Aix-en-Provence, France.
