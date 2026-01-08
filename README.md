@@ -112,14 +112,4 @@ Here are some of the projects I've been working on:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 GitHub Stats
-
-<p align="center">
-   <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliendnte&layout=compact&count_private=true&theme=dark" alt="Top Languages" />  
-   <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Juliendnte&show_icons=true&count_private=true&theme=dark" alt="Juliendnte's GitHub Stats" />    
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juliendnte&theme=dark" alt="Juliendnte's GitHub Streak" style="display: block; margin: 0 auto;" />      
-</p>
-
   
